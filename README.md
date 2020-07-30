@@ -1,4 +1,4 @@
-![Rust](https://github.com/kamiyaa/joshuto/workflows/Rust/badge.svg)
+![Rust](https://github.com/UsairimIsani/joshuto/workflows/Rust/badge.svg)
 
 # joshuto
 
